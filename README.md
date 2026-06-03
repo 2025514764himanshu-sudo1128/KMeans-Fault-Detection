@@ -1,8 +1,5 @@
 # Experiment 08: Fault Detection in Machinery using K-Means Clustering
 
-**Subject:** AI in Mechanical Engineering (ONT406)
-**Sharda University, Greater Noida**
-
 ---
 
 ## Aim
@@ -75,8 +72,8 @@ python -c "import matplotlib; print('Matplotlib:', matplotlib.__version__)"
 ## How to Run
 
 ```bash
-git clone https://github.com/2025514764himanshu-sudo1128/Exp08-KMeans-Fault-Detection.git
-cd Exp08-KMeans-Fault-Detection
+git clone https://github.com/2025514764himanshu-sudo1128/KMeans-Fault-Detection.git
+cd KMeans-Fault-Detection
 python fault_detection_kmeans.py
 ```
 
